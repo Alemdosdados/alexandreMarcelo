@@ -120,8 +120,9 @@ Sou movido por dados, inovação e pela vontade de gerar valor através de anál
   title="SQL"
   width="30px" 
   style="padding-right: 10px;" 
-  src="https://img.icons8.com/color/48/sql.png" 
+  src="https://img.icons8.com/ios-filled/50/ffffff/sql.png" 
 />
+
 <img 
     align="left" 
     alt="Tableau" 
