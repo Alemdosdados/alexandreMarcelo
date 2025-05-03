@@ -118,9 +118,9 @@ Sou movido por dados, inovação e pela vontade de gerar valor através de anál
   align="left" 
   alt="SQL" 
   title="SQL"
-  width="30px" 
+  width="40px" 
   style="padding-right: 10px;" 
-  src="https://img.icons8.com/ios-filled/50/ffffff/sql.png" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
 
 <img 
