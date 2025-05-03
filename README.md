@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Alexandre M S Junior
+# 👩🏻‍💻 Alexandre M. S. Junior
 
 **`Desenvolvedora FullStack`**
 
