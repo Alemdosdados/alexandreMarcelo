@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Alexandre M. S. Junior
 
-**`Analista de Dados`**
+**`Aspirante a Analista de Dados | Business Intelligence`**
 
 Me chamo Alexandre Marcelo da Silva Junior, tenho 25 anos e sou de são Paulo - Brasil. Sou formado em Gestão Financeira, curso Ciências Econômicas (conclusão em 2027) e finalizei minha pós-graduação em Business Intelligence, Big Data e Analytics.
 
