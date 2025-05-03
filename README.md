@@ -115,12 +115,12 @@ Sou movido por dados, inovação e pela vontade de gerar valor através de anál
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
 />
 <img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/ios-filled/50/000000/sql.png" 
+  align="left" 
+  alt="SQL" 
+  title="SQL"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://img.icons8.com/color/48/sql.png" 
 />
 <img 
     align="left" 
