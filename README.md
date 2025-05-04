@@ -10,7 +10,7 @@ Atualmente, estou desenvolvendo habilidades em:
 
 Ferramentas de BI: Power BI, SQL, Excel avançado
 
-Análise de dados: SQL, Python (pandas e matplotlib)
+Análise de dados: SQL, R, Python (pandas e matplotlib)
 
 Metodologias de trabalho: Scrum, Kanban e versionamento com Git/GitHub
 
