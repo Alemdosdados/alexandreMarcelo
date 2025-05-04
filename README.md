@@ -8,7 +8,7 @@ Tenho experiência trabalhando em uma instituição financeira, atuando com anal
 
 Atualmente, estou desenvolvendo habilidades em:
 
-Ferramentas de BI: Power BI, DAX, Excel avançado
+Ferramentas de BI: Power BI, SQL, Excel avançado
 
 Análise de dados: SQL, Python (pandas e matplotlib)
 
