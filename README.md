@@ -2,13 +2,14 @@
 
 **`Aspirante a Analista de Dados | Business Intelligence`**
 
-Me chamo Alexandre Marcelo da Silva Junior, tenho 25 anos e sou de São Paulo - Brasil. Sou formado em Gestão Financeira, curso Ciências Econômicas (conclusão em 2027) e finalizei minha pós-graduação em Business Intelligence, Big Data e Analytics.
+Me chamo Alexandre Marcelo da Silva Junior, tenho 25 anos e sou de São Paulo - Brasil. Sou formado em Gestão Financeira, cursando Ciências Econômicas, e finalizei minha pós-graduação em Business Intelligence, Big Data e Analytics.
 
 Tenho experiência trabalhando em uma instituição financeira, atuando com analytics voltado à gestão de clima e cultura. Estou me preparando para atuar como Analista de Dados Júnior, com foco em instituições financeiras.
 
 Atualmente, estou desenvolvendo habilidades em:
 
-Ferramentas de BI: Power BI, SQL, Excel avançado
+Ferramentas de BI: 
+Power BI, SQL, Excel avançado e Tablet.
 
 Análise de dados: SQL, R, Python (pandas e matplotlib e diversas bibliotecas)
 
