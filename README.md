@@ -34,14 +34,14 @@ Sou movido por dados, inovação e pela vontade de gerar valor através de anál
         src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCJqSmZppnRWLYaYCSmeyKWA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
     />
 </a> 
-    <a href="https://github.com/alexandreMarcelo?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Alemdosdados?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/alexandreMarcelo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/alexandreMarcelo?tab=followers">
+    <a href="https://github.com/Alemdosdados?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -55,14 +55,14 @@ Sou movido por dados, inovação e pela vontade de gerar valor através de anál
             src="https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/alexandremsilvajr/">
+    <a href="https://www.linkedin.com/in/Alemdosdados/">
         <img 
             alt="LinkedIn" 
             title="Conecte-se no LinkedIn" 
             src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://x.com/alemthedata">
+    <a href="https://x.com/Alemdosdados">
         <img 
             alt="Twitter" 
             title="Siga-me no Twitter" 
@@ -160,13 +160,13 @@ Sou movido por dados, inovação e pela vontade de gerar valor através de anál
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=alexandreMarcelo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Alemdosdados&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreMarcelo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alemdosdados&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
